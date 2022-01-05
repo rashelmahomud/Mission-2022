@@ -126,8 +126,48 @@ span.mission-years {
 
 
 
+.devlop-wrapper {
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
 
 
+
+.devlop-left-img {
+    width: 50%;
+}
+
+.devlop-right-info {
+    width: 50%;
+}
+
+.devlop-left-img img {
+    width: 500px;
+}
+
+.devlop-right-info h1 {
+    font-size: 38px;
+    margin-bottom: 15px;
+}
+
+.devlop-right-info p {
+    margin: 10px 0px;
+}
+
+.devlop-right-info {
+    margin: 123px 0px;
+}
+
+button.header-btn {
+    color: wheat;
+    font-weight: 900;
+}
+
+
+ /* Develop Sections Ends Here  */
+
+ 
 
 
 
