@@ -9,7 +9,8 @@ body{
 }
 
 section{
-    margin: 80px 80px;
+    margin-bottom: 100px;
+    margin-top: 100px;
 }
 
 .header-wrapper{
@@ -211,8 +212,32 @@ img.bg-image {
     margin: 68px 4px;
 }
 
+.goloval-left-info h1 {
+    margin-bottom: 26px;
+    font-size: 43px;
+}
+
 
 /* golval sections ends here  */
 
 
 
+.footer-mission {
+    width: 100%;
+    text-align: center;
+}
+
+.footer-wrapper {
+    background: black;
+    color: white;
+    padding: 50px;
+    margin-top: 80px;
+}
+
+h1.footer-title {
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+
+ /* footer ends here  */
