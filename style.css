@@ -217,6 +217,17 @@ img.bg-image {
     font-size: 43px;
 }
 
+img {
+    position: relative;
+}
+
+img.images-bg {
+    position: absolute;
+    margin-left: 376px;
+    margin-top: 369px;
+    width: 12%;
+}
+
 
 /* golval sections ends here  */
 
@@ -241,3 +252,5 @@ h1.footer-title {
 
 
  /* footer ends here  */
+
+ 
