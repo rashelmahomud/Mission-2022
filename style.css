@@ -8,6 +8,10 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+section{
+    margin: 80px 80px;
+}
+
 .header-wrapper{
     display: flex;
     width: 80%;
@@ -68,6 +72,62 @@ button.header-btn a {
 }
 
 /* Header Section Ends Here  */
+
+.my-mission {
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+
+.single-box-mission {
+    width: 33%;
+    margin: 40px 11px;
+}
+
+
+.single-box-mission img {
+    width: 120px;
+}
+
+.single-box-mission h3 {
+    font-size: 25px;
+    margin: 10px 10px;
+}
+
+h1.mission-title {
+    width: 100%;
+    text-align: center;
+    font-size: 49px;
+}
+
+span.mission-years {
+    color: #c34141;
+}
+
+.single-box-mission.box-1 {
+    background: #dddada;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.single-box-mission.box-2 {
+    background: #ffd2d2;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.single-box-mission.box-3 {
+    background: #9dd4d7;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+/* <!-- My Mission Section Ends Here  --> */
+
+
+
+
+
 
 
 
