@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header-wrapper{
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+
+
+.header-right{
+    width: 50%;
+    margin-top: 60px;
+}
+
+.header-left-img {
+    width: 50%;
+    text-align: right;
+}
+
+.header-left-img img {
+    width: 300px;
+}
+
+.header-title h1 {
+    font-size: 59px;
+    line-height: 90px;
+    padding: 0px 21px;
+}
+
+button {
+    display: block;
+}
+
+span.bar-line {
+    position: absolute;
+    width: 5px;
+    height: 135px;
+    background: #f55656;
+    margin-top: -69px;
+}
+h1.mission {
+    color: #c34141;
+}
+
+
+button.header-btn {
+    padding: 10px 40px;
+    border: navajowhite;
+    margin-top: 18px;
+    margin-bottom: 15px;
+    background: #ebb316;
+    border-radius: 5px;
+}
+
+
+button.header-btn a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+/* Header Section Ends Here  */
+
+
+
