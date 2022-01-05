@@ -144,6 +144,7 @@ span.mission-years {
 
 .devlop-left-img img {
     width: 500px;
+    position: relative;
 }
 
 .devlop-right-info h1 {
@@ -164,10 +165,54 @@ button.header-btn {
     font-weight: 900;
 }
 
+img.bg-images {
+    width: 150px;
+    position: absolute;
+    margin-left: -68px;
+    margin-top: 52px;
+}
+
 
  /* Develop Sections Ends Here  */
 
- 
+
+ .global-wrapper {
+    width: 80%;
+    display: flex;
+    margin: auto;
+}
+
+.goloval-left-info {
+    width: 50%;
+}
+
+.global-right-img {
+    width: 50%;
+}
+
+.global-right-img img {
+    width: 500px;
+}
+
+.global-right-img {
+    text-align: right;
+}
+
+img.bg-image {
+    width: 150px;
+}
+
+
+.global-wrapper {
+    margin-top: 60px;
+}
+
+.goloval-left-info {
+    margin: 68px 4px;
+}
+
+
+/* golval sections ends here  */
 
 
 
