@@ -13,6 +13,11 @@ section{
     margin-top: 100px;
 }
 
+p {
+    color: #7a6d6d;
+}
+
+
 .header-wrapper{
     display: flex;
     width: 80%;
