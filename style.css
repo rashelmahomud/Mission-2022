@@ -237,6 +237,46 @@ img.images-bg {
 /* golval sections ends here  */
 
 
+.Best-build-life{
+    width: 80%;
+    margin: auto;
+    display: flex;
+
+}
+
+.build-img-left {
+    width: 50%;
+}
+
+.build-info-right {
+    width: 50%;
+    padding: 78px 23px;
+}
+
+.build-img-left img {
+    width: 400px;
+}
+
+.build-info-right h1 {
+    font-size: 52px;
+    text-transform: uppercase;
+}
+
+
+h1.gain-life-title {
+    width: 100%;
+    text-align: center;
+    font-size: 80px;
+    margin-bottom: 40px;
+}
+
+.build-info-right {
+    background: #fbfbfb;
+    border-radius: 15px;
+}
+
+/* <!-- Best Build GAin life ends here  --> */
+
 
 .footer-mission {
     width: 100%;
@@ -257,5 +297,6 @@ h1.footer-title {
 
 
  /* footer ends here  */
+
 
  
